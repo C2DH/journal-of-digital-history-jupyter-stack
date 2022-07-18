@@ -31,7 +31,7 @@ Visit the sub-item Nbextenssions,uncheck the checkbox **disable configuration fo
 - table of contents
 - code prettify
 
-Visit the [guidelines](https://journalofdigitalhistory.org/en/guidelines?idx=15&layer=narrative&lh=1075&pidx=15&pl=narrative&y=251) of the Journal in order to know more about to use itin order to write your article.
+Visit the [guidelines](https://journalofdigitalhistory.org/en/guidelines?idx=15&layer=narrative&lh=1075&pidx=15&pl=narrative&y=251) of the Journal in order to know more about to use it in order to write your article.
 
 ## Resources
 
