@@ -33,6 +33,13 @@ Visit the sub-item Nbextenssions,uncheck the checkbox **disable configuration fo
 
 Visit the [guidelines](https://journalofdigitalhistory.org/en/guidelines?idx=15&layer=narrative&lh=1075&pidx=15&pl=narrative&y=251) of the Journal in order to know more about to use it in order to write your article.
 
+## For development
+
+
+```bash
+docker-compose -f docker-compose.dev.yml up --build
+```
+
 ## Resources
 
 - [Guidelines of Journal of Digital History](https://journalofdigitalhistory.org/en/guidelines)
