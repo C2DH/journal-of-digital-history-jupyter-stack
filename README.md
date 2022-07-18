@@ -10,7 +10,7 @@ You can use the stack image to do any of the following (and more):
 
 ## Quick Start
 
-The examples below may help you get started if you [have Docker installed](https://docs.docker.com/install/)
+The examples below may help you get started if you [have Docker installed](https://docs.docker.com/install/).
 Download the following project, open a terminal and run the command below at the root of the directory journal-of-digital-history-jupyter-stack
 
 ```bash
