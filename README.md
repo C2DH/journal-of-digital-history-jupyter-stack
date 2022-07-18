@@ -6,7 +6,7 @@ You can use the stack image to do any of the following (and more):
 
 - Start a personal Jupyter Notebook server in a local Docker container
 - Connect your zotero library to cite2c in order to integrate your references
-- Test your localnotebook via the [viewer](https://journalofdigitalhistory.org/en/notebook-viewer-form) of the Journal of Digital History
+- Test your local notebook via the [viewer](https://journalofdigitalhistory.org/en/notebook-viewer-form) of the Journal of Digital History
 
 ## Quick Start
 
