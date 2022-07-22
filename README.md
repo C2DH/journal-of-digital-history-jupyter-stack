@@ -5,10 +5,11 @@ Journal of Digital History Jupyter Stack is a set of ready-to-run [Docker images
 You can use the docker image to:
 
 - start a personal Jupyter Notebook server on your local machine;
-- connect your [Zotero](https://www.zotero.org/) library to cite2c excension to integrate your references in your notebooks;
+- connect your [Zotero](https://www.zotero.org/) library to cite2c extension to integrate your references in your notebooks;
 - test your local notebook using the the [local notebook viewer](https://journalofdigitalhistory.org/en/local-notebook) of the Journal of Digital History.
 
 ## Quick Start
+
 If you want to run it locally (or in your own server), first you need to install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/). The latter is recommended to speed up the installation process.
 
 Clone the project:
