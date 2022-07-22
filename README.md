@@ -11,6 +11,7 @@ You can use the docker image to:
 ## Quick Start
 
 If you want to run it locally (or in your own server), first you need to install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/). The latter is recommended to speed up the installation process.
+
 **NOTE** For Windows OS, see our step-by-step guide [pdf format](https://github.com/C2DH/journal-of-digital-history-jupyter-stack/blob/master/docker-desktop-windows.pdf)
 
 Clone the project:
