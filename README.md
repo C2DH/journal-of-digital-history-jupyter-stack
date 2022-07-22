@@ -14,7 +14,7 @@ If you want to run it locally (or in your own server), first you need to install
 
 Clone the project:
 ```bash
-git clone git@github.com:C2DH/journal-of-digital-history-jupyter-stack.git
+git clone https://github.com/C2DH/journal-of-digital-history-jupyter-stack.git
 ```
 
 Then open a terminal and run the command below at the root of the directory `journal-of-digital-history-jupyter-stack`
@@ -26,9 +26,12 @@ docker-compose up
 The `docker-compose up` command pulls the latest [c2dhunilu/journal-of-digital-history-jupyter](https://hub.docker.com/r/c2dhunilu/journal-of-digital-history-jupyter) image if it is not already present on your local machine.
 It then starts a container running a Jupyter Server and exposes the container's internal port `8888` to port `8889` of the host machine.
 
-Open [http://localhost:8889/?token=<token>](http://localhost:8889)` in a browser to get your Jupyter Notebook 100% ready.
+Open [http://localhost:8889](http://localhost:8889)` in a browser to get your Jupyter Notebook ready.
 
-You will be asked for a `token` that you can easily find on the terminal console.
+You will be asked for a `token` that you can find on the terminal console:
+
+<img width="725" alt="Screenshot 2022-07-22 at 17 15 52" src="https://user-images.githubusercontent.com/1181642/180470322-1a5255f6-5ab7-4790-ba28-d51704c68582.png">
+
 
 Once Jupyter Notebook has started, visit the page `Nbextensions`, uncheck the option **disable configuration for nbextensions without explicit compatibility (they may break your notebook environment, but can be useful to show for nbextension development)** to enable the installed extensions.
 In this docker image we have included:
