@@ -1,3 +1,11 @@
+- [Journal of Digital History Jupyter Stack](#journal-of-digital-history-jupyter-stack)
+  - [Quick Start](#quick-start)
+  - [For R's user](#for-rs-user)
+  - [Developing and building local images](#developing-and-building-local-images)
+  - [Resources](#resources)
+  - [License](#license)
+
+
 # Journal of Digital History Jupyter Stack
 
 Journal of Digital History Jupyter Stack is a set of ready-to-run [Docker images](https://hub.docker.com/r/c2dhunilu/journal-of-digital-history-jupyter) containing specific version of Jupyter notebook along with the extensions needed to write and publish article for the [Journal of digital history](https://journalofdigitalhistory.org/).
@@ -45,7 +53,22 @@ In this docker image we have included:
 Visit the Journal of Digital History [guidelines](https://journalofdigitalhistory.org/en/guidelines) to understand the correct procedure to write compatible articles from your notebooks.
 
 Enjoy!
-  
+
+## For R's user
+
+Based on the [Rocker project](https://rocker-project.org/images/versioned/binder.html)
+
+```bash
+docker-compose -f docker-compose.dev.R.yml up --build
+```
+
+By default the R version 4.2.0 (2022-04-22) is used.
+If you want to use another version of R, please update the [Dockerfile-R](https://github.com/C2DH/journal-of-digital-history-jupyter-stack/blob/master/Dockerfile), by upadting the:  FROM instruction.
+The appropriate tag image can be found here: https://registry.hub.docker.com/r/rocker/binder/tags
+
+
+> RStudio can be started and used in the browser by adding ?urlpath=rstudio at the end of the url
+
 ## Developing and building local images
 
 The official image will work for 90% of the use cases but if like to modify our official Dockerfile to fit your specific needs you will need to build your images in your machine.
