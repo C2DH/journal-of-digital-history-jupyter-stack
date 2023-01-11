@@ -67,7 +67,7 @@ If you want to use another version of R, please update the [Dockerfile-R](https:
 The appropriate tag image can be found here: https://registry.hub.docker.com/r/rocker/binder/tags
 
 
-> RStudio can be started and used in the browser by adding ?urlpath=rstudio at the end of the url
+> RStudio can be started and used in the browser by lauching the following url http://localhost:8889/rstudio/
 
 ## Developing and building local images
 
