@@ -63,7 +63,7 @@ docker-compose -f docker-compose.dev.R.yml up --build
 ```
 
 By default the R version 4.2.0 (2022-04-22) is used.
-If you want to use another version of R, please update the [Dockerfile-R](https://github.com/C2DH/journal-of-digital-history-jupyter-stack/blob/master/Dockerfile), by upadting the:  FROM instruction.
+If you want to use another version of R, please update the [Dockerfile-R](https://github.com/C2DH/journal-of-digital-history-jupyter-stack/blob/master/Dockerfile-R), by upadting the:  FROM instruction.
 The appropriate tag image can be found here: https://registry.hub.docker.com/r/rocker/binder/tags
 
 

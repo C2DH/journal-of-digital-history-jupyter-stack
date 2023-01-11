@@ -23,12 +23,6 @@ RUN if [ -f install.R ]; then R --quiet -f install.R; fi
 WORKDIR $HOME
 RUN python -m pip install --upgrade pip --user
 RUN pip install notebook==6.2.0 --user
-#RUN pip install jupyter_nbextensions_configurator --user
-#RUN jupyter nbextensions_configurator enable --user
-#RUN jupyter notebook --no-browser --allow-root
-#RUN python -m pip install jupyter_contrib_nbextensions --user
-#RUN jupyter contrib nbextension install--user
-# enable the Nbextensions
 RUN jupyter nbextension enable toc2/main --user
 RUN python -m pip install cite2c --user
 RUN python -m cite2c.install --user
@@ -37,8 +31,3 @@ RUN jupyter nbextension enable cite2c/main --user
 ENTRYPOINT jupyter notebook --allow-root
 
 
-# pip3 install jupyter_nbextensions_configurator
-# jupyter nbextensions_configurator enable --user
-# jupyter notebook --ip=192.168.10.169 --no-browser --allow-root
-# pip3 install jupyter_contrib_nbextensions
-# jupyter contrib nbextension install --user
