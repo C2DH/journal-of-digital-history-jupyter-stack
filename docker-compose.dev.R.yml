@@ -4,6 +4,7 @@ services:
     build:
       context: "."
       dockerfile: Dockerfile-R
+    image: c2dhunilu/journal-of-digital-history-jupyter-r:latest
     ports:
       - 8889:8888
     volumes:
