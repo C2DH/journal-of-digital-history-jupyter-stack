@@ -1,4 +1,4 @@
-FROM rocker/binder:4.2.0
+FROM --platform=linux/amd64 rocker/binder:4.2.0
 WORKDIR $HOME
 ## Declares build arguments
 ARG NB_USER
