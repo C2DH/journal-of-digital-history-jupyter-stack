@@ -1,15 +1,6 @@
-FROM python:3.7
+FROM quay.io/jupyter/base-notebook:python-3.11
+#FROM jupyter/base-notebook:python-3.9.5
 WORKDIR $HOME
-RUN python -m pip install --upgrade pip
-RUN pip install notebook==6.2.0
-RUN python -m pip install jupyter_contrib_nbextensions
-RUN jupyter contrib nbextension install --user
-# enable the Nbextensions
-RUN jupyter nbextension enable code_prettify/code_prettify
-RUN jupyter nbextension enable toc2/main
-RUN python -m pip install cite2c
-RUN python -m cite2c.install
-RUN jupyter nbextension enable cite2c/main
-# for the default python implementation, the yapf module is required forcode_prettify
-RUN pip install yapf
-ENTRYPOINT jupyter notebook --allow-root
+## Install Python citation manager
+RUN pip install --no-cache-dir jupyterlab-citation-manager
+ENTRYPOINT jupyter lab --allow-root
