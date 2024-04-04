@@ -11,6 +11,13 @@ ENV PATH=${VIRTUAL_ENV}/bin:${PATH}
 
 RUN /rocker_scripts/install_jupyter.sh
 
+## Run an install.R script, if it exists.
+RUN if [ -f install.R ]; then R --quiet -f install.R; fi
+
+## Install Python citation manager
+RUN python -m pip install --upgrade pip
+RUN pip install jupyterlab-citation-manager
+
 EXPOSE 8888
 
 #CMD ["/bin/sh", "-c", "jupyter lab --ip 0.0.0.0 --no-browser"]
@@ -18,3 +25,4 @@ EXPOSE 8888
 USER ${NB_USER}
 
 WORKDIR /home/${NB_USER}
+

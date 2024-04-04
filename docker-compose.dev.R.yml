@@ -10,4 +10,4 @@ services:
     volumes:
       - ./work:/work
     working_dir: /work
-    entrypoint: jupyter notebook --no-browser --allow-root --ip 0.0.0.0 --port 8888
+    entrypoint: jupyter lab --no-browser --allow-root --ip 0.0.0.0 --port 8888
