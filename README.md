@@ -13,7 +13,7 @@ Journal of Digital History Jupyter Stack is a set of ready-to-run [Docker images
 You can use the docker image to:
 
 - start a personal Jupyter Notebook server on your local machine;
-- connect your [Zotero](https://www.zotero.org/) library to cite2c extension to integrate your references in your notebooks;
+- connect your [Zotero](https://www.zotero.org/) library to the jupyter citation manager extension to integrate your references in your notebooks;
 - test your local notebook using the the [local notebook viewer](https://journalofdigitalhistory.org/en/local-notebook) of the Journal of Digital History.
 
 ## Quick Start
@@ -46,7 +46,7 @@ You will be asked for a `token` that you can find on the terminal console:
 Once Jupyter Notebook has started, visit the page `Nbextensions`, uncheck the option **disable configuration for nbextensions without explicit compatibility (they may break your notebook environment, but can be useful to show for nbextension development)** to enable the installed extensions.
 In this docker image we have included:
 
-- the [cite2c](https://github.com/takluyver/cite2c) extension to integrate Zotero and use bibliographic references in your notebooks;
+- the [jupyter citation manager](https://github.com/krassowski/jupyterlab-citation-manager) extension to integrate Zotero and use bibliographic references in your notebooks;
 - the table of contents extension;
 - the code prettify extension.
 
@@ -62,7 +62,7 @@ Based on the [Rocker project](https://rocker-project.org/images/versioned/binder
 docker-compose -f docker-compose.dev.R.yml up --build
 ```
 
-By default the R version 4.2.0 (2022-04-22) is used.
+By default the R version 4.2.2 (2022-10-31) is used.
 If you want to use another version of R, please update the [Dockerfile-R](https://github.com/C2DH/journal-of-digital-history-jupyter-stack/blob/master/Dockerfile-R), by upadting the:  FROM instruction.
 The appropriate tag image can be found here: https://registry.hub.docker.com/r/rocker/binder/tags
 
