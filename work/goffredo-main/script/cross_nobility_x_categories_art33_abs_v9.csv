@@ -1,0 +1,22 @@
+﻿cat,cat_label,rows_with_category,nobles_yes_with_category,nobles_no_with_category,noble_missing_with_category
+cat_03,Deputati (3 leg. / 6 anni),774,546,228,0
+cat_21,Censo 3000 lire,606,428,178,0
+cat_14,Ufficiali Generali (terra/mare),272,167,105,0
+cat_18,Accademia Scienze,174,120,54,0
+cat_05,Ministri Segretari di Stato,146,108,38,0
+cat_20,Meriti eminenti,117,69,48,0
+cat_17,Intendenti Generali,73,50,23,0
+cat_08,Presidenti Cass./Conti,65,45,20,0
+cat_15,Consiglieri di Stato,61,38,23,0
+cat_16,Consigli di Divisione,60,46,14,0
+cat_09,Presidenti d'appello,59,36,23,0
+cat_12,Consiglieri Cass./Conti,55,32,23,0
+cat_13,Avv./Fiscali Generali (appello),35,14,21,0
+cat_06,Ambasciatori,34,29,5,0
+cat_04,Ministri di Stato,25,22,3,0
+cat_10,Avv./Proc. Generale (Cass.),23,19,4,0
+cat_07,Inviati straordinari,22,18,4,0
+cat_19,Consiglio Istruzione,21,16,5,0
+cat_02,Presidente Camera,15,10,5,0
+cat_11,Presidenti di Classe (appello),8,7,1,0
+cat_01,Arcivescovi/Vescovi,6,4,2,0

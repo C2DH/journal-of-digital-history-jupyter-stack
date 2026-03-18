@@ -1,0 +1,164 @@
+﻿cat,cat_label,rows_with_category,profession,n
+cat_01,Arcivescovi/Vescovi,6,Clergyman,6
+cat_02,Presidente Camera,15,Lawyer,5
+cat_02,Presidente Camera,15,Magistrate,3
+cat_02,Presidente Camera,15,Landowner,2
+cat_02,Presidente Camera,15,University professor,2
+cat_02,Presidente Camera,15,Administrative civil servant,1
+cat_02,Presidente Camera,15,Career military (Army),1
+cat_02,Presidente Camera,15,Other,1
+cat_03,Deputati (3 leg. / 6 anni),774,Lawyer,204
+cat_03,Deputati (3 leg. / 6 anni),774,Landowner,122
+cat_03,Deputati (3 leg. / 6 anni),774,University professor,95
+cat_03,Deputati (3 leg. / 6 anni),774,Industrialist-farmer,51
+cat_03,Deputati (3 leg. / 6 anni),774,Career military (Army),40
+cat_03,Deputati (3 leg. / 6 anni),774,Magistrate,37
+cat_03,Deputati (3 leg. / 6 anni),774,Engineer,34
+cat_03,Deputati (3 leg. / 6 anni),774,Journalist,32
+cat_03,Deputati (3 leg. / 6 anni),774,Industrialist,28
+cat_03,Deputati (3 leg. / 6 anni),774,Company executive,21
+cat_03,Deputati (3 leg. / 6 anni),774,Other,19
+cat_03,Deputati (3 leg. / 6 anni),774,Doctor,17
+cat_03,Deputati (3 leg. / 6 anni),774,Prefect,16
+cat_03,Deputati (3 leg. / 6 anni),774,Diplomat,14
+cat_03,Deputati (3 leg. / 6 anni),774,Administrative civil servant,13
+cat_03,Deputati (3 leg. / 6 anni),774,Teacher,11
+cat_03,Deputati (3 leg. / 6 anni),774,Career military (Navy),6
+cat_03,Deputati (3 leg. / 6 anni),774,Writer,5
+cat_03,Deputati (3 leg. / 6 anni),774,Banker,4
+cat_03,Deputati (3 leg. / 6 anni),774,Merchant,4
+cat_03,Deputati (3 leg. / 6 anni),774,Clergyman,1
+cat_04,Ministri di Stato,25,Career military (Army),5
+cat_04,Ministri di Stato,25,Landowner,4
+cat_04,Ministri di Stato,25,University professor,4
+cat_04,Ministri di Stato,25,Diplomat,3
+cat_04,Ministri di Stato,25,Prefect,3
+cat_04,Ministri di Stato,25,Administrative civil servant,2
+cat_04,Ministri di Stato,25,Lawyer,2
+cat_04,Ministri di Stato,25,Magistrate,2
+cat_05,Ministri Segretari di Stato,146,Career military (Army),27
+cat_05,Ministri Segretari di Stato,146,University professor,26
+cat_05,Ministri Segretari di Stato,146,Lawyer,19
+cat_05,Ministri Segretari di Stato,146,Magistrate,13
+cat_05,Ministri Segretari di Stato,146,Administrative civil servant,12
+cat_05,Ministri Segretari di Stato,146,Career military (Navy),12
+cat_05,Ministri Segretari di Stato,146,Landowner,9
+cat_05,Ministri Segretari di Stato,146,Diplomat,5
+cat_05,Ministri Segretari di Stato,146,Journalist,5
+cat_05,Ministri Segretari di Stato,146,Engineer,4
+cat_05,Ministri Segretari di Stato,146,Industrialist,4
+cat_05,Ministri Segretari di Stato,146,Banker,2
+cat_05,Ministri Segretari di Stato,146,Company executive,2
+cat_05,Ministri Segretari di Stato,146,Doctor,2
+cat_05,Ministri Segretari di Stato,146,Industrialist-farmer,2
+cat_05,Ministri Segretari di Stato,146,Prefect,1
+cat_05,Ministri Segretari di Stato,146,Writer,1
+cat_06,Ambasciatori,34,Diplomat,29
+cat_06,Ambasciatori,34,Career military (Army),2
+cat_06,Ambasciatori,34,Administrative civil servant,1
+cat_06,Ambasciatori,34,Industrialist-farmer,1
+cat_06,Ambasciatori,34,Lawyer,1
+cat_07,Inviati straordinari,22,Diplomat,21
+cat_07,Inviati straordinari,22,Career military (Army),1
+cat_08,Presidenti Cass./Conti,65,Magistrate,60
+cat_08,Presidenti Cass./Conti,65,Administrative civil servant,3
+cat_08,Presidenti Cass./Conti,65,Lawyer,2
+cat_09,Presidenti d'appello,59,Magistrate,58
+cat_09,Presidenti d'appello,59,University professor,1
+cat_10,Avv./Proc. Generale (Cass.),23,Magistrate,22
+cat_10,Avv./Proc. Generale (Cass.),23,University professor,1
+cat_11,Presidenti di Classe (appello),8,Magistrate,8
+cat_12,Consiglieri Cass./Conti,55,Magistrate,50
+cat_12,Consiglieri Cass./Conti,55,Administrative civil servant,3
+cat_12,Consiglieri Cass./Conti,55,Lawyer,1
+cat_12,Consiglieri Cass./Conti,55,University professor,1
+cat_13,Avv./Fiscali Generali (appello),35,Magistrate,33
+cat_13,Avv./Fiscali Generali (appello),35,Administrative civil servant,1
+cat_13,Avv./Fiscali Generali (appello),35,Lawyer,1
+cat_14,Ufficiali Generali (terra/mare),272,Career military (Army),204
+cat_14,Ufficiali Generali (terra/mare),272,Career military (Navy),62
+cat_14,Ufficiali Generali (terra/mare),272,Other,4
+cat_14,Ufficiali Generali (terra/mare),272,Engineer,2
+cat_15,Consiglieri di Stato,61,Magistrate,30
+cat_15,Consiglieri di Stato,61,Administrative civil servant,12
+cat_15,Consiglieri di Stato,61,University professor,7
+cat_15,Consiglieri di Stato,61,Prefect,6
+cat_15,Consiglieri di Stato,61,Diplomat,2
+cat_15,Consiglieri di Stato,61,Career military (Army),1
+cat_15,Consiglieri di Stato,61,Doctor,1
+cat_15,Consiglieri di Stato,61,Engineer,1
+cat_15,Consiglieri di Stato,61,Lawyer,1
+cat_16,Consigli di Divisione,60,Lawyer,25
+cat_16,Consigli di Divisione,60,Landowner,12
+cat_16,Consigli di Divisione,60,University professor,6
+cat_16,Consigli di Divisione,60,Magistrate,5
+cat_16,Consigli di Divisione,60,Administrative civil servant,3
+cat_16,Consigli di Divisione,60,Career military (Army),2
+cat_16,Consigli di Divisione,60,Industrialist-farmer,2
+cat_16,Consigli di Divisione,60,Diplomat,1
+cat_16,Consigli di Divisione,60,Doctor,1
+cat_16,Consigli di Divisione,60,Engineer,1
+cat_16,Consigli di Divisione,60,Merchant,1
+cat_16,Consigli di Divisione,60,Prefect,1
+cat_17,Intendenti Generali,73,Prefect,61
+cat_17,Intendenti Generali,73,Administrative civil servant,7
+cat_17,Intendenti Generali,73,Diplomat,2
+cat_17,Intendenti Generali,73,Clergyman,1
+cat_17,Intendenti Generali,73,Magistrate,1
+cat_17,Intendenti Generali,73,Other,1
+cat_18,Accademia Scienze,174,University professor,136
+cat_18,Accademia Scienze,174,Other,10
+cat_18,Accademia Scienze,174,Landowner,8
+cat_18,Accademia Scienze,174,Career military (Army),4
+cat_18,Accademia Scienze,174,Magistrate,4
+cat_18,Accademia Scienze,174,Writer,3
+cat_18,Accademia Scienze,174,Doctor,2
+cat_18,Accademia Scienze,174,Lawyer,2
+cat_18,Accademia Scienze,174,Teacher,2
+cat_18,Accademia Scienze,174,Clergyman,1
+cat_18,Accademia Scienze,174,Diplomat,1
+cat_18,Accademia Scienze,174,Engineer,1
+cat_19,Consiglio Istruzione,21,University professor,16
+cat_19,Consiglio Istruzione,21,Other,2
+cat_19,Consiglio Istruzione,21,Doctor,1
+cat_19,Consiglio Istruzione,21,Engineer,1
+cat_19,Consiglio Istruzione,21,Teacher,1
+cat_20,Meriti eminenti,117,University professor,29
+cat_20,Meriti eminenti,117,Other,18
+cat_20,Meriti eminenti,117,Lawyer,16
+cat_20,Meriti eminenti,117,Landowner,14
+cat_20,Meriti eminenti,117,Career military (Army),7
+cat_20,Meriti eminenti,117,Journalist,7
+cat_20,Meriti eminenti,117,Clergyman,4
+cat_20,Meriti eminenti,117,Magistrate,4
+cat_20,Meriti eminenti,117,Prefect,4
+cat_20,Meriti eminenti,117,Administrative civil servant,2
+cat_20,Meriti eminenti,117,Doctor,2
+cat_20,Meriti eminenti,117,Merchant,2
+cat_20,Meriti eminenti,117,Teacher,2
+cat_20,Meriti eminenti,117,Banker,1
+cat_20,Meriti eminenti,117,Career military (Navy),1
+cat_20,Meriti eminenti,117,Company executive,1
+cat_20,Meriti eminenti,117,Diplomat,1
+cat_20,Meriti eminenti,117,Engineer,1
+cat_20,Meriti eminenti,117,Writer,1
+cat_21,Censo 3000 lire,606,Landowner,229
+cat_21,Censo 3000 lire,606,University professor,80
+cat_21,Censo 3000 lire,606,Industrialist,63
+cat_21,Censo 3000 lire,606,Industrialist-farmer,56
+cat_21,Censo 3000 lire,606,Lawyer,33
+cat_21,Censo 3000 lire,606,Other,25
+cat_21,Censo 3000 lire,606,Banker,18
+cat_21,Censo 3000 lire,606,Company executive,15
+cat_21,Censo 3000 lire,606,Engineer,14
+cat_21,Censo 3000 lire,606,Career military (Army),12
+cat_21,Censo 3000 lire,606,Prefect,12
+cat_21,Censo 3000 lire,606,Journalist,11
+cat_21,Censo 3000 lire,606,Administrative civil servant,10
+cat_21,Censo 3000 lire,606,Merchant,9
+cat_21,Censo 3000 lire,606,Diplomat,5
+cat_21,Censo 3000 lire,606,Doctor,5
+cat_21,Censo 3000 lire,606,Magistrate,4
+cat_21,Censo 3000 lire,606,Career military (Navy),2
+cat_21,Censo 3000 lire,606,Teacher,2
+cat_21,Censo 3000 lire,606,Writer,1

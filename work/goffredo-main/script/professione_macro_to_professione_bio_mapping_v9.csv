@@ -1,0 +1,57 @@
+﻿professione_macro,professione_bio,n,macro_total,share_within_macro_pct
+Clergy,Ecclesiastico,12,12,100.0
+Cultural,Industriale-agricoltore,103,190,54.21
+Cultural,Docente,17,190,8.95
+Cultural,Scrittore,10,190,5.26
+Cultural,Archeologo,8,190,4.21
+Cultural,Agricoltore,7,190,3.68
+Cultural,Agronomo,5,190,2.63
+Cultural,Uomo di corte,5,190,2.63
+Cultural,Pittore,4,190,2.11
+Cultural,Scultore,4,190,2.11
+Cultural,Economista,3,190,1.58
+Cultural,Musicista,3,190,1.58
+Cultural,Astronomo,2,190,1.05
+Cultural,Bibliotecario,2,190,1.05
+Cultural,Commediografo,2,190,1.05
+Cultural,Editore,2,190,1.05
+Cultural,Esploratore,2,190,1.05
+Cultural,Geologo,2,190,1.05
+Cultural,Poeta,2,190,1.05
+Cultural,Antiquario,1,190,0.53
+Cultural,Bibliografo,1,190,0.53
+Cultural,Critico d'arte,1,190,0.53
+Cultural,Critico letterario,1,190,0.53
+Cultural,Librettista,1,190,0.53
+Cultural,Naturalista,1,190,0.53
+Cultural,Scienziato,1,190,0.53
+Cultural/knowledge professions,Giornalista,49,49,100.0
+Economic elites,Possidente,367,530,69.25
+Economic elites,Industriale,90,530,16.98
+Economic elites,Amministratore d'azienda,37,530,6.98
+Economic elites,Banchiere,21,530,3.96
+Economic elites,Commerciante,15,530,2.83
+Judiciary,Magistrato,274,276,99.28
+Judiciary,Magistrato Incerto,1,276,0.36
+Judiciary,Magistrato Si,1,276,0.36
+Legal,Avvocato,282,285,98.95
+Legal,Notaio,2,285,0.7
+Legal,Avvocato erariale,1,285,0.35
+Military,Militare di carriera (Esercito),259,345,75.07
+Military,Militare di carriera (Marina),79,345,22.9
+Military,Militare di carriera (Aeronautica),5,345,1.45
+Military,Militare di carriera (Esercito) Si,2,345,0.58
+Other,Ingegnere,56,89,62.92
+Other,Medico,31,89,34.83
+Other,Allevatore,1,89,1.12
+Other,Architetto,1,89,1.12
+Other/unclear,Mancante,1,1,100.0
+State elite,Prefetto,95,236,40.25
+State elite,Diplomatico,74,236,31.36
+State elite,Funzionario amministrativo,61,236,25.85
+State elite,Sindacalista,2,236,0.85
+State elite,Amministratore pubblico,1,236,0.42
+State elite,Diplomatico Incerto,1,236,0.42
+State elite,"Diplomatico Si, Incerto",1,236,0.42
+State elite,Prefetto Si,1,236,0.42
+University professor,Docente universitario,351,351,100.0

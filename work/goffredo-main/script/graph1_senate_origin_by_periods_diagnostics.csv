@@ -1,0 +1,18 @@
+section,metric,value
+dataset,rows_in_dataset,2364
+dataset,macro_column_used,macro_area_v2
+dataset,missing_nomination_dt,0
+dataset,missing_death_dt,7
+missing_death_rule,mask_A_decay_1859_n,2
+missing_death_rule,mask_B_keep_alive_1929plus_n,4
+missing_death_rule,mask_C_excluded_n,1
+macro_distribution_figure_classes_only,Regno di Sardegna,599
+macro_distribution_figure_classes_only,Nord-Est,661
+macro_distribution_figure_classes_only,Centro,396
+macro_distribution_figure_classes_only,Sud,655
+macro_distribution_figure_classes_only,Estero,53
+period_totals_after_filter,(1848–1859),144
+period_totals_after_filter,(1860–1882),687
+period_totals_after_filter,(1883–1913),1163
+period_totals_after_filter,(1914–1924),711
+period_totals_after_filter,(1925–1946),941
